@@ -1,0 +1,32 @@
+body {background: dimgray;}
+
+#caja1 {   
+    background: dodgerblue;
+    font-family: 'Courier New', Courier, monospace;
+    width: 301px;
+    border: 9px solid green;
+    padding: 51px;
+    margin: 21px;
+  }
+
+#caja2 {
+    background: floralwhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 301px;
+    border: 9px solid rgb(19, 61, 13);
+    padding: 51px;
+    margin: 21px;
+}
+
+#caja3 {
+    background: gold;
+    font-family: 'Times New Roman', Times, serif;
+    width: 301px;
+    border: 9px solid rgb(117, 252, 117);
+    padding: 51px;
+    margin: 21px;
+
+
+}
+h4 {
+    color: rgb(214, 4, 120) 
